@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+temp_documents/
+embeddings_store/
+
+# Environment variables
+.env
