@@ -42,7 +42,7 @@ Before setting up the project, ensure you have the following:
 ### `/upload_pdf`
 
 - **Method**: `POST`
-- **Description**: Uploads a PDF document to the backend for extraction and processing..
+- **Description**: Uploads a PDF document to the backend for extraction and processing.
 - **Request Body**: Form-data with a key file (file input).
 
 ```Response
