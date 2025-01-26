@@ -22,7 +22,7 @@ Before setting up the project, ensure you have the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<username>/<repository>.git
+   git clone https://github.com/saniazeb97/Project-Chatbot.git
    cd <repository>
 
 2. **Install Dependencies**:
