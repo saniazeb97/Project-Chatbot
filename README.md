@@ -34,7 +34,7 @@ Before setting up the project, ensure you have the following:
     uvicorn app.main:app --host 0.0.0.0 --port 8000
 
     ### Start Streamlit Frontend:
-    streamlit run streamlit.main.py
+    streamlit run streamlit/main.py
 
 
 ## API Documentation
