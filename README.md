@@ -1,4 +1,4 @@
-# Chatbot Application
+# Chat With PDF - Application
 
 This project provides a chatbot application with a **FastAPI** backend and a **Streamlit** frontend. The backend serves API endpoints for query processing, while the frontend is responsible for interacting with users and displaying responses. The chatbot can answer questions based on information extracted from uploaded PDFs.
 
